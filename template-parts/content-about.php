@@ -17,9 +17,7 @@
       <div class="col-lg-12">
           <h2>Get To Know The Attorney</h2>
           <p>
-          Adrian Hebert-Thomas, Esq. is the principal attorney of Hebert-Thomas Law, PLLC. She is a skilled attorney who focuses her practice on advising businesses and entrepreneurs in various aspects of corporate law, ranging from corporate formation to mergers and acquisitions. Adrian has a passion for helping young entrepreneurs develop a strong business acumen and providing them with the necessary legal tools to foster and promote their success. 
-
-
+          Adrian Hebert-Thomas, Esq. is the principal attorney of Hebert-Thomas Law, PLLC. She is a skilled attorney who focuses her practice on advising businesses and entrepreneurs in various aspects of corporate law, ranging from corporate formation to mergers and acquisitions. Adrian has a passion for helping young entrepreneurs develop a strong business acumen and providing them with the necessary legal tools to foster and promote their success.
           </p>
         </div>
   </div>

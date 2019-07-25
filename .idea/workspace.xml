@@ -13,14 +13,6 @@
       <executable />
     </execution>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>.contact-header</find>
-      <find>we</find>
-      <find>MY</find>
-      <find>OUR</find>
-    </findStrings>
-  </component>
   <component name="PhpServers">
     <servers />
   </component>
@@ -60,7 +52,7 @@
       <workItem from="1554427215680" duration="121000" />
       <workItem from="1554427368452" duration="2881000" />
       <workItem from="1564069678152" duration="515000" />
-      <workItem from="1564085052143" duration="2021000" />
+      <workItem from="1564085052143" duration="5746000" />
     </task>
     <servers />
   </component>

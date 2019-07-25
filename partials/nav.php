@@ -23,6 +23,7 @@
                     Practice Areas
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item <?php if (is_page('/estate-planning')) echo 'active'; ?>" href="<?php echo site_url('/estate-planning'); ?>">Estate Planning</a>
                     <a class="dropdown-item <?php if (is_page('/business-law')) echo 'active'; ?>" href="<?php echo site_url('/business-law'); ?>">Business Law</a>
                     <a class="dropdown-item <?php if (is_page('/trademark-and-copyright-law')) echo 'active'; ?>" href="<?php echo site_url('/trademark-and-copyright-law'); ?>">Trademark and Copyright Law</a>
                     <a class="dropdown-item <?php if (is_page('/mergers-and-acquisitions')) echo 'active'; ?>" href="<?php echo site_url('/mergers-and-acquisitions'); ?>">Mergers and Acquisitions</a>
