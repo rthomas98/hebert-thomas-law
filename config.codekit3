@@ -259,44 +259,92 @@
 		"oAP": "/page.php",
 		"oF": 0
 		},
-	"/pages/about-page.php": {
+	"/pages/page-about.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/pages/about-page.php",
+		"oAP": "/pages/page-about.php",
 		"oF": 0
 		},
-	"/pages/areas-page.php": {
+	"/pages/page-areas.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/pages/areas-page.php",
+		"oAP": "/pages/page-areas.php",
 		"oF": 0
 		},
-	"/pages/contact.php": {
+	"/pages/page-business-law.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/pages/contact.php",
+		"oAP": "/pages/page-business-law.php",
 		"oF": 0
 		},
-	"/pages/home-page.php": {
+	"/pages/page-contact.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/pages/home-page.php",
+		"oAP": "/pages/page-contact.php",
 		"oF": 0
 		},
-	"/pages/insight-page.php": {
+	"/pages/page-estate-planning.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/pages/insight-page.php",
+		"oAP": "/pages/page-estate-planning.php",
+		"oF": 0
+		},
+	"/pages/page-general-counsel-services.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/pages/page-general-counsel-services.php",
+		"oF": 0
+		},
+	"/pages/page-home.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/pages/page-home.php",
+		"oF": 0
+		},
+	"/pages/page-insight.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/pages/page-insight.php",
+		"oF": 0
+		},
+	"/pages/page-mergers-and-acquisitions.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/pages/page-mergers-and-acquisitions.php",
+		"oF": 0
+		},
+	"/pages/page-privacy-and-data-protection.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/pages/page-privacy-and-data-protection.php",
+		"oF": 0
+		},
+	"/pages/page-trademark-and-copyright-law.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/pages/page-trademark-and-copyright-law.php",
 		"oF": 0
 		},
 	"/pages/policy-page.php": {
@@ -563,12 +611,36 @@
 		"oAP": "/template-parts/content-areas.php",
 		"oF": 0
 		},
+	"/template-parts/content-business-law.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/content-business-law.php",
+		"oF": 0
+		},
 	"/template-parts/content-contact.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/template-parts/content-contact.php",
+		"oF": 0
+		},
+	"/template-parts/content-estate-planning.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/content-estate-planning.php",
+		"oF": 0
+		},
+	"/template-parts/content-general-counsel-services.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/content-general-counsel-services.php",
 		"oF": 0
 		},
 	"/template-parts/content-home.php": {
@@ -585,6 +657,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/template-parts/content-insight.php",
+		"oF": 0
+		},
+	"/template-parts/content-mergers-and-acquisitions.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/content-mergers-and-acquisitions.php",
 		"oF": 0
 		},
 	"/template-parts/content-none.php": {
@@ -617,6 +697,22 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/template-parts/content-search.php",
+		"oF": 0
+		},
+	"/template-parts/content-template-parts.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/content-template-parts.php",
+		"oF": 0
+		},
+	"/template-parts/content-trademark-and-copyright-law.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/content-trademark-and-copyright-law.php",
 		"oF": 0
 		},
 	"/template-parts/content.php": {

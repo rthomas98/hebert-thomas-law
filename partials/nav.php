@@ -18,9 +18,18 @@
           <li class="nav-item <?php if (is_page('/about-us')) echo 'active'; ?>">
             <a class="nav-link" href="<?php echo site_url('/about-us'); ?>">About</a>
           </li>
-          <li class="nav-item <?php if (is_page('/practice-areas')) echo 'active'; ?>">
-            <a class="nav-link" href="<?php echo site_url('/practice-areas'); ?>">Practice Areas</a>
-          </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Practice Areas
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item <?php if (is_page('/business-law')) echo 'active'; ?>" href="<?php echo site_url('/business-law'); ?>">Business Law</a>
+                    <a class="dropdown-item <?php if (is_page('/trademark-and-copyright-law')) echo 'active'; ?>" href="<?php echo site_url('/trademark-and-copyright-law'); ?>">Trademark and Copyright Law</a>
+                    <a class="dropdown-item <?php if (is_page('/mergers-and-acquisitions')) echo 'active'; ?>" href="<?php echo site_url('/mergers-and-acquisitions'); ?>">Mergers and Acquisitions</a>
+                    <a class="dropdown-item <?php if (is_page('/general-counsel-services')) echo 'active'; ?>" href="<?php echo site_url('/general-counsel-services'); ?>">General Counsel Services</a>
+                    <a class="dropdown-item <?php if (is_page('/privacy-and-data-protection')) echo 'active'; ?>" href="<?php echo site_url('/privacy-and-data-protection'); ?>">Privacy and Data Protection</a>
+                </div>
+            </li>
           <li class="nav-item <?php if (is_page('/insight')) echo 'active'; ?>">
             <a class="nav-link" href="<?php echo site_url('/insight'); ?>">Insight</a>
           </li>
