@@ -1,0 +1,208 @@
+<div class="banner d-flex justify-content-center mb-5">
+  <div class="banner-tint animated fadeInLeft"></div>
+
+  <div class="bottom-content">
+    <div class="row mb-5">
+      <div class="col-lg-12 animated fadeInDown">
+        <h1>Exceptional Legal Advice for <br>
+          Businesses, Professionals, & Creative People</h1>
+        <p class="lead">
+        If you require the services of a business lawyer in Texas, Hebert-Thomas Law, PLLC focuses almost exclusively in corporate law and therefore has the experience to solve any legal issue your business may encounter.
+        </p>
+      </div>
+    </div>
+    <div class="banner-box animated fadeInRight pl-4">
+      <div class="row">
+        <div class="col-lg-5 p-4">
+          <p class="lead">Affordable billing models. Easy and Secure Payment System.</p>
+          <h3>Let Us Help <i class="fal fa-arrow-square-right ml-2"></i></h3>
+        </div>
+        <div class="col-lg-5 p-4">
+          <p class="lead">Legal Advice with a Unique Approach and a Fresh Perspective.</p>
+          <h3>Committed to your Satisfaction <i class="fal fa-arrow-square-right ml-2"></i></h3>
+        </div>
+        <div class="col-lg-2 p-5 d-flex justify-content-center h-100 banner-scroll">
+          <div class="my-auto text-center">
+            <a href="#aboutus">
+              <i class="fal fa-arrow-square-down animated infinite bounce delay-2s"></i>
+              <h4>Learn More</h4>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div id="aboutus" class="container">
+
+  <div class="row mb-5 h-100">
+    <div class="col-sm-12 col-md-12 col-lg-6 d-flex justify-content-center">
+      <div class="my-auto">
+        <h2>Sound Legal Representation</h2>
+        <p>
+          Hebert-Thomas Law, PLLC is a corporate law firm providing sound legal counsel and a
+          myriad of corporate services to both novice and well-seasoned entrepreneurs. My
+          practice areas encompass Corporate Formation and Governance; Business and
+          Technology Transactions; and Mergers & Acquisitions. I pride myself in
+          exceeding expectations and nurturing strong, meaningful client relationships.
+        </p>
+        <p>
+          <a href="<?php echo site_url('/about'); ?>" class="btn btn-pink btn-lg">
+            Get To Know The Attorney
+          </a>
+        </p>
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3 text-center">
+      <img class="img-fluid" alt="Hebert Thomas Law" src="https://res.cloudinary.com/empuls3/image/upload/v1541703385/Hebert%20Thomas/home-img-1.png"
+        width="">
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3 text-center">
+      <img class="img-fluid" alt="Hebert Thomas Law" src="https://res.cloudinary.com/empuls3/image/upload/v1541703385/Hebert%20Thomas/home-img-2.png"
+        width="">
+    </div>
+  </div>
+
+  <div class="row mb-4">
+    <div class="col-sm-12 col-md-12 col-lg-5">
+      <div class="full-dark p-4 h-100 d-flex justify-content-center">
+        <div class="my-auto">
+          <p>
+
+          </p>
+          <h4>Legal Services for Entrepreneurs</h4>
+          <p>Hebert-Thomas Law, PLLC provides comprehensive legal services to small business owners, startups, and
+            entrepreneurs.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-12 col-lg-7">
+      <img class="img-fluid mobile-img" alt="Hebert Thomas Law" src="https://res.cloudinary.com/empuls3/image/upload/v1541704069/Hebert%20Thomas/home-img-3.png"
+        width="">
+    </div>
+  </div>
+
+  <div class="row mb-5">
+    <div class="col-sm-12 col-md-12 col-lg-7">
+      <img class="img-fluid mobile-img" alt="Hebert Thomas Law" src="https://res.cloudinary.com/empuls3/image/upload/v1541704069/Hebert%20Thomas/home-img-4.png"
+        width="">
+    </div>
+    <div class="col-sm-12 col-md-12 col-lg-5">
+      <div class="bg-pink p-4 h-100 d-flex justify-content-center">
+        <div class="my-auto">
+          <h4>Planning for Today & Tomorrow</h4>
+          <p>By having an adequate estate plan in place, take comfort in knowing that the legacy of your business will be in good hands for future generations.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="page-cta mb-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Helping my clients build a better future</h2>
+        <p>
+            If you have an established business, are launching a new venture, or seeking to protect your intellectual property rights, you need the professional guidance that I am uniquely qualified to provide. Call my office today or complete the contact form on the contact page to schedule a consultation.
+        </p>
+        <p>
+          <a href="<?php echo site_url('/contact'); ?>" class="btn btn-pink btn-lg">
+            Ask For Consultation
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container mb-5">
+  <div class="row mb-5">
+    <div class="col-sm-12 col-md-12 col-lg-6 d-flex justify-content-center">
+      <div class="my-auto">
+        <img class="img-fluid" alt="Hebert Thomas Law" src="https://res.cloudinary.com/empuls3/image/upload/v1546802841/Hebert%20Thomas/home-img-5-cta.jpg"
+          width="">
+        <div class="img-content">
+          <h2>Building a Solid Foundation</h2>
+          <p>
+            I provide guidance on selecting the right business entity, preparing the necessary
+            foundational documents, and negotiating and drafting essential agreements.
+          </p>
+          <p>
+            <a href="<?php echo site_url('/practice-areas'); ?>" class="btn btn-lg btn-pink">
+              View More Services
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-12 col-lg-6">
+      <div class="row">
+
+        <div class="col-sm-6 col-md-6 col-lg-6">
+          <div class="service-tab text-center p-2">
+            <i class="fal fa-users"></i>
+            <h5>Estate Planning</h5>
+            <p>Estate planning is simply the preparation of how you wish your property to be distributed and managed at
+              death.</p>
+            <p>
+              <a href="<?php echo site_url('/practice-areas#estate-planning'); ?>" class="btn btn-black anchor">
+                More Details
+              </a>
+            </p>
+          </div>
+        </div>
+
+        <div class="col-sm-6 col-md-6 col-lg-6">
+          <div class="service-tab text-center p-2">
+            <i class="fal fa-building"></i>
+            <h5>Business Law</h5>
+            <p>If you are starting your own business, choosing the right business entity is a crucial step in the
+              start-up process.</p>
+            <p>
+              <a href="<?php echo site_url('/practice-areas#business-law'); ?>" class="btn btn-black">
+                More Details
+              </a>
+            </p>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-6 col-md-6 col-lg-6">
+          <div class="service-tab text-center p-2">
+            <i class="fal fa-database"></i>
+            <h5>Data Privacy Law</h5>
+            <p>Data Privacy law pertains to the regulation, storage, and use of personally identifiable information
+              (PII) of individuals.</p>
+            <p>
+              <a href="<?php echo site_url('/practice-areas#data-privacy-law'); ?>" class="btn btn-black">
+                More Details
+              </a>
+            </p>
+          </div>
+        </div>
+
+        <div class="col-sm-6 col-md-6 col-lg-6">
+          <div class="service-tab text-center p-2">
+            <i class="fal fa-badge-check"></i>
+            <h5>Trademarks</h5>
+            <p>In today's economy, trademarks have become one of the most powerful marketing tools used for brand
+              identification ...</p>
+            <p>
+              <a href="<?php echo site_url('/practice-areas#trademarks'); ?>" class="btn btn-black">
+                More Details
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<?php get_template_part('partials/recent-posts'); ?>

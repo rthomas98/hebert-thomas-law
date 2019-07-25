@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Rob Thomas -- Designer and Developer -- @empuls3
+
+# THANKS
+
+    Adrian Hebert-Thomas
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, Wordpress
+    Apache Server Configs, jQuery, Modernizr, Normalize.css

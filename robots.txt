@@ -1,0 +1,14 @@
+# www.robotstxt.org/
+
+# Allow crawling of all content
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-content/plugins/
+Disallow: /readme.html
+Disallow: /trackback/
+Disallow: /wp-includes/
+Disallow: /go/
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-content/uploads/
+
+Sitemap: https://www.hebertthomaslaw.com/sitemap.xml
