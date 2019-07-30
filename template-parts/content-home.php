@@ -102,107 +102,25 @@
 </div>
 
 <div class="page-cta mb-5">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-        <h2>Helping my clients build a better future</h2>
-        <p>
-            If you have an established business, are launching a new venture, or seeking to protect your intellectual property rights, you need the professional guidance that I am uniquely qualified to provide. Call my office today or complete the contact form on the contact page to schedule a consultation.
-        </p>
-        <p>
-          <a href="<?php echo site_url('/contact'); ?>" class="btn btn-pink btn-lg">
-            Ask For Consultation
-          </a>
-        </p>
+  <div class="container h-100">
+    <div class="row h-100">
+      <div class="col-lg-12 text-center d-flex justify-content-center">
+        <div class="my-auto col">
+            <h2>Helping my clients build a better future</h2>
+            <p>
+                If you have an established business, are launching a new venture, or seeking to protect your intellectual property rights, you need the professional guidance that I am uniquely qualified to provide. Call my office today or complete the contact form on the contact page to schedule a consultation.
+            </p>
+            <p>
+                <a href="<?php echo site_url('/contact'); ?>" class="btn btn-pink btn-lg">
+                    Ask For Consultation
+                </a>
+            </p>
+        </div>
       </div>
     </div>
   </div>
 </div>
 
-<div class="container mb-5">
-  <div class="row mb-5">
-    <div class="col-sm-12 col-md-12 col-lg-6 d-flex justify-content-center">
-      <div class="my-auto">
-        <img class="img-fluid" alt="Hebert Thomas Law" src="https://res.cloudinary.com/empuls3/image/upload/v1546802841/Hebert%20Thomas/home-img-5-cta.jpg"
-          width="">
-        <div class="img-content">
-          <h2>Building a Solid Foundation</h2>
-          <p>
-            I provide guidance on selecting the right business entity, preparing the necessary
-            foundational documents, and negotiating and drafting essential agreements.
-          </p>
-          <p>
-            <a href="<?php echo site_url('/practice-areas'); ?>" class="btn btn-lg btn-pink">
-              View More Services
-            </a>
-          </p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-12 col-md-12 col-lg-6">
-      <div class="row">
+<?php get_template_part('partials/areas'); ?>
 
-        <div class="col-sm-6 col-md-6 col-lg-6">
-          <div class="service-tab text-center p-2">
-            <i class="fal fa-users"></i>
-            <h5>Estate Planning</h5>
-            <p>Estate planning is simply the preparation of how you wish your property to be distributed and managed at
-              death.</p>
-            <p>
-              <a href="<?php echo site_url('/practice-areas#estate-planning'); ?>" class="btn btn-black anchor">
-                More Details
-              </a>
-            </p>
-          </div>
-        </div>
-
-        <div class="col-sm-6 col-md-6 col-lg-6">
-          <div class="service-tab text-center p-2">
-            <i class="fal fa-building"></i>
-            <h5>Business Law</h5>
-            <p>If you are starting your own business, choosing the right business entity is a crucial step in the
-              start-up process.</p>
-            <p>
-              <a href="<?php echo site_url('/practice-areas#business-law'); ?>" class="btn btn-black">
-                More Details
-              </a>
-            </p>
-          </div>
-        </div>
-
-      </div>
-
-      <div class="row">
-
-        <div class="col-sm-6 col-md-6 col-lg-6">
-          <div class="service-tab text-center p-2">
-            <i class="fal fa-database"></i>
-            <h5>Data Privacy Law</h5>
-            <p>Data Privacy law pertains to the regulation, storage, and use of personally identifiable information
-              (PII) of individuals.</p>
-            <p>
-              <a href="<?php echo site_url('/practice-areas#data-privacy-law'); ?>" class="btn btn-black">
-                More Details
-              </a>
-            </p>
-          </div>
-        </div>
-
-        <div class="col-sm-6 col-md-6 col-lg-6">
-          <div class="service-tab text-center p-2">
-            <i class="fal fa-badge-check"></i>
-            <h5>Trademarks</h5>
-            <p>In today's economy, trademarks have become one of the most powerful marketing tools used for brand
-              identification ...</p>
-            <p>
-              <a href="<?php echo site_url('/practice-areas#trademarks'); ?>" class="btn btn-black">
-                More Details
-              </a>
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
 <?php get_template_part('partials/recent-posts'); ?>

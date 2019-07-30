@@ -15644,6 +15644,9 @@ textarea {
   color: white;
   text-transform: uppercase; }
 
+.dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover {
+  background-color: var(--pink); }
+
 .active .nav-link {
   color: #fff;
   text-decoration: none;
@@ -16011,6 +16014,46 @@ textarea {
   background-size: cover;
   position: relative; }
 
+.business-law {
+  background: url(https://res.cloudinary.com/empuls3/image/upload/v1564093057/Hebert%20Thomas/bl-cover.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative; }
+
+.trademarks {
+  background: url(https://res.cloudinary.com/empuls3/image/upload/v1564096184/Hebert%20Thomas/tm-cover.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative; }
+
+.mergers {
+  background: url(https://res.cloudinary.com/empuls3/image/upload/v1564097171/Hebert%20Thomas/mergers-cover.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative; }
+
+.general {
+  background: url(https://res.cloudinary.com/empuls3/image/upload/v1564446655/Hebert%20Thomas/gen-cover.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative; }
+
+.privacy {
+  background: url(https://res.cloudinary.com/empuls3/image/upload/v1564447732/Hebert%20Thomas/privacy-cover.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative; }
+
 .contact-header {
   background: url(https://res.cloudinary.com/empuls3/image/upload/v1554426583/shutterstock_657766582_2.jpg) no-repeat center center;
   -webkit-background-size: cover;
@@ -16048,8 +16091,14 @@ div.wpforms-container-full .wpforms-form .wpforms-page-button {
 
 .page-cta {
   padding: 80px 20px 80px 10px;
-  background: var(--dark);
-  color: white; }
+  background: url(https://res.cloudinary.com/empuls3/image/upload/v1564093057/Hebert%20Thomas/cta-call.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  color: white;
+  height: 400px; }
 
 .page-cta-img {
   padding: 80px 20px 80px 20px;

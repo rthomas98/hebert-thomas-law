@@ -1,5 +1,5 @@
 <div class="container mb-5">
-<div class="row mb-5">
+<div class="row mb-3">
     <div class="col-lg-12 text-center mb-3">
         <h2>Focused on the Details</h2>
         <p class="lead">

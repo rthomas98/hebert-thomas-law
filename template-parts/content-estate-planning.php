@@ -173,3 +173,26 @@
         </div>
     </div>
 </div>
+
+
+<div class="page-cta mb-5">
+    <div class="container h-100">
+        <div class="row h-100">
+            <div class="col-lg-12 text-center d-flex justify-content-center">
+                <div class="my-auto col">
+                    <h2>Helping my clients build a better future</h2>
+                    <p>
+                        If you have an established business, are launching a new venture, or seeking to protect your intellectual property rights, you need the professional guidance that I am uniquely qualified to provide. Call my office today or complete the contact form on the contact page to schedule a consultation.
+                    </p>
+                    <p>
+                        <a href="<?php echo site_url('/contact'); ?>" class="btn btn-pink btn-lg">
+                            Ask For Consultation
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<?php get_template_part('partials/areas'); ?>

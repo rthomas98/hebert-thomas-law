@@ -355,6 +355,14 @@
 		"oAP": "/pages/policy-page.php",
 		"oF": 0
 		},
+	"/partials/areas.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/partials/areas.php",
+		"oF": 0
+		},
 	"/partials/footer.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -689,6 +697,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/template-parts/content-policy.php",
+		"oF": 0
+		},
+	"/template-parts/content-privacy-and-data-protection.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template-parts/content-privacy-and-data-protection.php",
 		"oF": 0
 		},
 	"/template-parts/content-search.php": {
