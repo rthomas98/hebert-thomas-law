@@ -446,8 +446,8 @@
 		"oA": 0,
 		"oAP": "/screenshot.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -749,7 +749,8 @@
 	"displayValue": "hebertthomaslaw",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets_teal",
-	"iconImageWasSetByUser": 0
+	"iconImageWasSetByUser": 0,
+	"lastBuiltDate": 586231914.92197502
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2214,7 +2215,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http://hebertthomas-law.local/",
+	"externalServerAddress": "https://hebertthomas-law.local/",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",

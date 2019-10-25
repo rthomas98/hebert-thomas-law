@@ -15,9 +15,10 @@
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="robots" content="all">
+	<meta name="robots" content="index">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 	<link rel="canonical" href="https://www.hebertthomaslaw.com/" />
+	
 
 	<?php wp_head(); ?>
 </head>

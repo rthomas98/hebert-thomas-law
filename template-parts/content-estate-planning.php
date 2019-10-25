@@ -15,7 +15,7 @@
 <div class="container mb-5">
     <div class="row mb-3">
         <div class="col-sm-12 col-md-12 col-lg-6 text-center">
-            <img class="img-fluid" alt="an old black man shaking hands" src="https://res.cloudinary.com/empuls3/image/upload/v1564088005/Hebert%20Thomas/ep-img-1.jpg" width="">
+            <img class="img-fluid mb-sm-3 mb-3" alt="an old black man shaking hands" src="https://res.cloudinary.com/empuls3/image/upload/v1564088005/Hebert%20Thomas/ep-img-1.jpg" width="">
         </div>
         <div class="col-sm-12 col-md-12 col-lg-6 d-flex justify-content-center">
             <div class="col my-auto">
